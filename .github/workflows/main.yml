@@ -1,0 +1,9 @@
+console.log("Welcome to All Question Solver!");
+
+// Example Function
+function solveQuestion(question) {
+    return "Answer for: " + question;
+}
+
+// Testing the function
+console.log(solveQuestion("What is 2 + 2?"));
